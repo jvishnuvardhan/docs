@@ -4,7 +4,7 @@
 
 * The [TensorFlow Guide](../guide) includes usage guides for the
   high-level APIs, as well as advanced TensorFlow operations.
-* [Premade Estimators](../guide/premade_estimators) are designed to
+* [Premade Estimators](../guide/premade_estimators.md) are designed to
   get results out of the box. Use TensorFlow without building your own models.
 * [TensorFlow.js](https://js.tensorflow.org/) allows web developers to train and
   deploy ML models in the browser and using Node.js.
